@@ -6,6 +6,9 @@
 - 📫 You can reach me at shaminik9646@gmail.com. I'll try to revert back as soon as possible.
 - ⚡ Interesting fact: I love writing blogs and exploring new things about technology.
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+
 
 ### 🛠 &nbsp;Tech Stack
 
