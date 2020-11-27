@@ -29,7 +29,7 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)&nbsp;
 
-# ⚙️ &nbsp;Stats
+###  ⚙️ &nbsp;Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShaminiKoravuna&show_icons=true&count_private=true&theme=radical" alt="ShaminiKoravuna" /></p> 
 
 
