@@ -39,6 +39,5 @@
 <a href="https://www.aiesrobotix.com"><img src="https://img.shields.io/badge/-aiesrobotix.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shamini-koravuna-1980927a/"><img src="https://img.shields.io/badge/-Shamini%20Koravuna-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/shamini_sony"><img src="https://img.shields.io/badge/-@shamini_sony-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat-square&logo=Behance&logoColor=white"/></a>
+<a href="https://facebook.com/shamini.sony.3"><img src="https://img.shields.io/badge/-@shamini.sony.3-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 
