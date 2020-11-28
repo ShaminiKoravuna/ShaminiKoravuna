@@ -24,7 +24,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)&nbsp;
-![MATLAB](https://img.shields.io/badge/%20MATLAB-1f425f.svg)](https://www.python.org/)
+![MATLAB](https://img.shields.io/badge/%20https://www.google.com/search?q=matlab+svg&sxsrf=ALeKk01mJ6lRFRvHV3fDD78vVee0AKo8vg:1606582334233&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjI6dXK2aXtAhUC1xoKHTW4CJ4Q_AUoAXoECAYQAw&biw=1366&bih=625#imgrc=6BgZ5aD86p26nM.svg)](https://www.mathworks.com/)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB&Simulink)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
