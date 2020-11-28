@@ -24,6 +24,7 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=Keras)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)&nbsp;
+![MATLAB](https://img.shields.io/badge/%20MATLAB-1f425f.svg)](https://www.python.org/)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=MATLAB&Simulink)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
