@@ -9,7 +9,7 @@
 - ⚡ Interesting fact: I love writing blogs and exploring new things about technology.
 
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stac
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
